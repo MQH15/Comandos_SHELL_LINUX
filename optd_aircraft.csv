@@ -1,0 +1,20 @@
+iata_code^manufacturer^model^iata_group^iata_category^icao_code^nb_engines^aircraft_type
+100^Fokker^100^100^2J^F100^2^J
+141^BAe^146-100^146^4J^B461^4^J
+142^BAe^BAE Systems 146-200 Passenger^146^4J^B462^4^J
+143^BAe^146-300^146^4J^B463^4^J
+146^BAe^146^^^^^
+14F^BAe^146 Freighter (-100/200/300QT & QC)^^^^^
+14X^BAe^146 Freighter (-100QT & QC)^14F^4J^B461^4^J
+14Y^BAe^146 Freighter (-200QT & QC)^14F^4J^B462^4^J
+14Z^BAe^146 Freighter (-300QT & QC)^14F^4J^B463^4^J
+19D^Airbus^A319^^^^^
+310^Airbus^A310^^^^^
+312^Airbus^A310-200^310^2J^A310^2^J
+313^Airbus^A310-300^310^2J^A310^2^J
+318^Airbus^A318^32S^2J^A318^2^J
+319^Airbus^A319^32S^2J^A319^2^J
+31F^Airbus^A310F^^^^^
+31W^Airbus^A319 (Sharklets)^^^^^
+31X^Airbus^A310-200F^31F^2J^A310^2^J
+31Y^Airbus^A310-300F^31F^2J^A310^2^J
