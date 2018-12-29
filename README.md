@@ -12,4 +12,4 @@ Creando segundo archivo en jupyetr notebook; "Shell_Intermediate.ipynb"
 
 Este contiene comandos mas utilizados en la terminal de linux. tambien a manera interactiva se ha realizado un notebook para ser mas entendible.
 
-Se utilizaran los archivos adicionales "Numbers_Names.txt" y "Text_example.txt" cargados en la ruta del github
+Se utilizaran los archivos adicionales "Numbers_Names.txt", "Text_example.txt", "optd_aircraft_backup.csv.bz2", "optd_aircraft_new.csv" cargados en la ruta del github
