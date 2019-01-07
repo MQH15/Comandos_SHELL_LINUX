@@ -1,0 +1,20 @@
+ls -la
+rm -rf Finn.txt
+cd ~/Data/us_dot/otp
+ls -la
+cd ~/Data/us_dot/
+cd ~/Data/us_dot/otp ~/Repos/Comandos_SHELL_LINUX/Archivos_Pesados
+cp -r ~/Data/us_dot/otp ~/Repos/Comandos_SHELL_LINUX/Archivos_Pesados
+cd
+cd ./Repos/Comandos_SHELL_LINUX
+ls -la
+cd Archivos_Pesados
+ls -la
+rm -rf history.txt
+rm -rf Largest.txt
+rm -rf three_largest_file.txt
+ls -la
+ls -lS1
+cd
+ls -l
+cd ./Repos/Comandos_SHELL_LINUX
