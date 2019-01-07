@@ -33,6 +33,8 @@ En este notebook se muestra los comandos intermedios que se utilizan en la termi
 
 Se utilizaran los archivos adicionales "Numbers_Names.txt", "Text_example.txt", "optd_aircraft_backup.csv.bz2", "optd_aircraft_new.csv" cargados en la ruta del github
 
+************************************************************************************************
+
 Creando archivo en jupyter notebook: "Ejercicios_Resueltos.ipynb"
 
 Este contiene ejercicios resueltos de los comandos mostrados en los notebooks anteriores.
