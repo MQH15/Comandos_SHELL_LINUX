@@ -1,6 +1,6 @@
 # Creando Repositorio de comandos SHELL
 
-Creando primer archivo en jupyter notebook: "Shell_Basic.ipynb"
+Creando primer archivo en jupyter notebook: "SHELL_LINUX_BASIC.ipynb"
 
 Este contiene comandos basicos en la terminal de linux. A manera interactiva se ha realizado un notebook para ser mas entendible.
 
@@ -17,7 +17,7 @@ Se utilizaran los archivos "optd_aircraft.csv", "optd_aircraft_backup.csv" y "he
 
 ************************************************************************************************
 
-Creando segundo archivo en jupyetr notebook: "Shell_Intermediate.ipynb"
+Creando segundo archivo en jupyetr notebook: "SHELL_LINUX_INTERMEDIATE.ipynb"
 
 Este contiene comandos mas utilizados en la terminal de linux. tambien a manera interactiva se ha realizado un notebook para ser mas entendible.
 
@@ -35,7 +35,7 @@ Se utilizaran los archivos adicionales "Numbers_Names.txt", "Text_example.txt", 
 
 ************************************************************************************************
 
-Creando archivo en jupyter notebook: "Ejercicios_Resueltos.ipynb"
+Creando archivo en jupyter notebook: "Ejercicios_SHELL_LINUX.ipynb"
 
 Este contiene ejercicios resueltos de los comandos mostrados en los notebooks anteriores.
 
