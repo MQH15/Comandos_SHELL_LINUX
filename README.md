@@ -38,3 +38,5 @@ Se utilizaran los archivos adicionales "Numbers_Names.txt", "Text_example.txt", 
 Creando archivo en jupyter notebook: "Ejercicios_Resueltos.ipynb"
 
 Este contiene ejercicios resueltos de los comandos mostrados en los notebooks anteriores.
+
+Archivos adicionales "optd_airlines.csv", "optd_por_public.csv".
