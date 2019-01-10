@@ -39,4 +39,10 @@ Creando archivo en jupyter notebook: "Ejercicios_SHELL_LINUX.ipynb"
 
 Este contiene ejercicios resueltos de los comandos mostrados en los notebooks anteriores.
 
+Ejercicios con comandos:
+
+- ls, mkdir, touch, cat, cp, mv, rm
+- echo, wc, paste, tr, find
+- cut, sort, grep
+
 Archivos adicionales "optd_airlines.csv", "optd_por_public.csv".
